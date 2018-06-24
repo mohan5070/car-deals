@@ -7,7 +7,6 @@ It is a demo applying principles and practices to transform this simple webpage 
 
 ### Demo Page
 
-https://bstavroulakis.com/pluralsight/courses/progressive-web-apps/app/
 
 ### Installation Steps
  
